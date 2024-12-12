@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fblli/static/css/main.52274501.css",
+    "main.js": "/fblli/static/js/main.39ce282e.js",
+    "static/js/488.9c92ff38.chunk.js": "/fblli/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/fblli/index.html",
+    "main.52274501.css.map": "/fblli/static/css/main.52274501.css.map",
+    "main.39ce282e.js.map": "/fblli/static/js/main.39ce282e.js.map",
+    "488.9c92ff38.chunk.js.map": "/fblli/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52274501.css",
+    "static/js/main.39ce282e.js"
+  ]
+}
